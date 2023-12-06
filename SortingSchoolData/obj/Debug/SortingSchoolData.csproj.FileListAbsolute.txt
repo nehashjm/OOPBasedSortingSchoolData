@@ -1,0 +1,7 @@
+D:\mphasis Simplilearn\SortingSchoolData\SortingSchoolData\bin\Debug\SortingSchoolData.exe.config
+D:\mphasis Simplilearn\SortingSchoolData\SortingSchoolData\bin\Debug\SortingSchoolData.exe
+D:\mphasis Simplilearn\SortingSchoolData\SortingSchoolData\bin\Debug\SortingSchoolData.pdb
+D:\mphasis Simplilearn\SortingSchoolData\SortingSchoolData\obj\Debug\SortingSchoolData.csproj.AssemblyReference.cache
+D:\mphasis Simplilearn\SortingSchoolData\SortingSchoolData\obj\Debug\SortingSchoolData.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\SortingSchoolData\SortingSchoolData\obj\Debug\SortingSchoolData.exe
+D:\mphasis Simplilearn\SortingSchoolData\SortingSchoolData\obj\Debug\SortingSchoolData.pdb
